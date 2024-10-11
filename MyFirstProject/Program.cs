@@ -10,7 +10,6 @@ using System.Threading.Tasks;
 
 namespace MyFirstProject
 {
-
     internal class Program
     {
         static void Main(string[] args)
@@ -66,6 +65,7 @@ namespace MyFirstProject
             }
             Console.ReadLine();
 
+            Console.WriteLine("Look! Here is my changes");
         }
     }
 }
