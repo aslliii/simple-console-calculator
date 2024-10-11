@@ -50,7 +50,7 @@ namespace MyFirstProject
                 case "4":
                     if (num2 == 0)
                     {
-                        Console.WriteLine("Error: My dear hahahahahahaha, I love you, but division by zero is not allowed, sorry.");
+                        Console.WriteLine("Error: My dear, I love you, but division by zero is not allowed, sorry.");
                     }
                     else
                     {
